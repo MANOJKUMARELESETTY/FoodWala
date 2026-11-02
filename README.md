@@ -1,28 +1,27 @@
-# FoodWala — Manoj Kumar Edition
 
-A custom food-discovery and delivery portfolio project built from scratch using the general workflow of a modern food-delivery platform.
+# FoodWala 🍔
 
-## Live URL after GitHub Pages
-https://MANOJKUMARELESETTY.github.io/FoodWala/
+FoodWala is a food ordering website developed using HTML, CSS, and JavaScript.
 
-## Repository
-https://github.com/MANOJKUMARELESETTY/FoodWala
+## Live Demo
+[Visit FoodWala](https://manojkumarelesetty.github.io/FoodWala/)
 
 ## Features
-- Homepage and food categories
-- Restaurant discovery and filtering
-- Restaurant menu pages
-- Cart with quantity controls and bill calculation
+- Food and restaurant browsing
+- Food menu display
+- Shopping cart
+- Login and registration pages
 - Checkout page
-- Demo authentication pages
-- Order history
-- Order tracking
-- Simple admin dashboard
-- Responsive desktop/mobile UI
-- LocalStorage demo persistence
+- Order tracking page
 
-## Tech stack
-HTML5, CSS3, JavaScript ES6+, LocalStorage, GitHub Pages
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+- GitHub Pages
 
-## Important
-This implementation is independently written and is not the original developer's code. It uses common food-delivery concepts and workflow as reference.
+## Project Purpose
+The purpose of this project is to develop a simple and user-friendly food ordering website.
+
+## Developer
+FoodWala Project
